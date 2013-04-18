@@ -1,7 +1,7 @@
 💪💪Bashmoji💪💪
 =================
 
-Displays an emjoi based on the time of day (OS X).
+Displays an emoji based on the time of day (OS X).
 
 Borrows heavily from the very fun https://github.com/paulsm/bashtime
 
