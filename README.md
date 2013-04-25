@@ -13,6 +13,13 @@ Will look something like:
 
 ![Bashmoji](example.jpg)
 
+See Also
+-------
+
+  * [Bashtime](https://github.com/paulsm/bashtime)
+  * [Gitmoji](https://github.com/evilstreak/gitmoji)
+
+
 License
 -------
 
