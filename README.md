@@ -1,4 +1,4 @@
-💪💪Bashmoji💪💪
+:muscle::muscle:Bashmoji:muscle::muscle:
 =================
 
 Displays an emoji based on the time of day (OS X).
